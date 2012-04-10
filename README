@@ -1,0 +1,10 @@
+name: CloseTopWindow
+author:  Miroslav Safr <miroslav.safr@gmail.com> 
+web: https://github.com/safrm/CloseTopWindow
+description: Extra keyboard button handler for Windows - One press to close top window
+I used to have 2 different keyboards with many extra buttons and no use for them. This is one of the useful actions to attach to one of them. 
+
+content: 
+  1. copy CloseTopWindow.exe to some permanent location - for example:C:\Program Files\CloseTopWindow\CloseTopWindow.exe
+  2. register you keyboard handler to execute the file on special button press event (it can be also global shortcut as F11..)
+  3. use the advantage of useful shortcut (one extra button instead of Alt+F4 or using mouse)
